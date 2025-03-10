@@ -1,5 +1,5 @@
 #ARG BASE_IMAGE=nginxproxymanager/nginx-full:latest
-ARG BASE_IMAGE=nginx-full-jiangchao:latest
+ARG BASE_IMAGE=southpark426/nginx-full-i386:latest
 
 #############
 # Certbot Builder
