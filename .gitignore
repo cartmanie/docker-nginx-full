@@ -4,3 +4,4 @@
 ._*
 *.code-workspace
 .vscode
+build*.log
